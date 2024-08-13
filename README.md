@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently createing a Django Market place<br><br>I am interested in learning Go an Rust<br><br>I am mid-level Python developer and learning JavaScript, HTML and CSS. I am good with SQL and have a basic knowledge with GO.<br><br>I am looking forward to improve myself and open to contribute any project. Python interests me more.<br><br>You can reach me via https://www.linkedin.com/in/engin-cetin-erdem or e.cetinerdem@gmail.com<br><br>For a fun fact I have visited more than 23 countries and speak 4 languages :)
+I am currently createing a Django Market place<br><br>I am interested in learning Go an Rust<br><br>I am mid-level Python developer and learning JavaScript, HTML and CSS. I am good with SQL and have a basic knowledge with GO.<br><br>I am looking forward to improve myself and open to contribute any project. Python and Rust interests me more.<br><br>You can reach me via https://www.linkedin.com/in/engin-cetin-erdem or e.cetinerdem@gmail.com<br><br>For a fun fact I have visited more than 23 countries and speak 4 languages :)
 
 
 ## 🌐 Socials:
