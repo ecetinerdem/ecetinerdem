@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currentlylearning TypeScript and NextJSt along with Java<br><br>I am interested in learning Go an Rust<br><br>I am mid-level Python, JavaScript, React, HTML, CSS and Tailwind. I am good with SQL and have a basic knowledge of GO.<br><br>I am looking forward to improve myself and open to contribute any project. Python and Rust interests me more.<br><br>You can reach me via https://www.linkedin.com/in/engin-cetin-erdem or e.cetinerdem@gmail.com<br><br>For a fun fact I have visited more than 23 countries and speak 4 languages (English, Turkish, German, Kurdish and now learning Arabic) :)
+I am currently learning TypeScript and NextJSt along with Java(Also reading Rust programming Language book)<br><br>I am interested in learning Go an Rust<br><br>I am mid-level Python, JavaScript, React, HTML, CSS and Tailwind. I am good with SQL and have a basic knowledge of GO.<br><br>I am looking forward to improve myself and open to contribute any project. Python and Rust interests me more.<br><br>You can reach me via https://www.linkedin.com/in/engin-cetin-erdem or e.cetinerdem@gmail.com<br><br>For a fun fact I have visited more than 23 countries and speak 4 languages (English, Turkish, German, Kurdish and now learning Arabic) :)
 
 
 ## 🌐 Socials:
