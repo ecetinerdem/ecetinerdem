@@ -13,7 +13,7 @@ I am currently learning TypeScript and NextJS along with Rust(now reading Rust p
 </p> 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,anaconda,ai,fastapi,nodejs,npm,pnpm,react,redux,vite,nextjs,sqlite,mysql,postgres,postman,docker,windows,linux,ubuntu,bash,atom,vim,neovim,powershell,vscode,git,github,gcp,codepen,cypress,gmail,materialui,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,anaconda,ai,fastapi,nodejs,nextjs,npm,pnpm,react,redux,vite,nextjs,sqlite,mysql,postgres,postman,docker,windows,linux,ubuntu,bash,atom,vim,neovim,powershell,vscode,git,github,gcp,codepen,cypress,gmail,materialui,)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ecetinerdem&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
