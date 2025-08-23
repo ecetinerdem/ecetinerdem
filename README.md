@@ -13,7 +13,7 @@ I am currently learning Go and Rust(now reading Rust programming language book b
 </p> 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,spring,hibernate,maven,anaconda,ai,fastapi,nodejs,nextjs,npm,pnpm,react,redux,vite,nextjs,expressjs,firebase,supabase,sqlite,netlify,mysql,postgres,postman,docker,windows,linux,ubuntu,bash,atom,vim,neovim,powershell,vscode,idea,git,github,gcp,codepen,figma,cypress,gmail,materialui,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,spring,hibernate,maven,anaconda,ai,fastapi,nodejs,nextjs,npm,pnpm,react,redux,vite,nextjs,expressjs,firebase,supabase,sqlite,netlify,mysql,postgres,postman,docker,windows,linux,ubuntu,bash,atom,vim,neovim,powershell,vscode,idea,git,github,gitlab,gcp,codepen,figma,cypress,gmail,materialui,)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ecetinerdem&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
