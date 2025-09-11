@@ -3,7 +3,7 @@ Software Developer with a Passion for Problem Solving!
 
 I have 6 months of bootcamp experience where I learned Java, Spring Boot, JavaScript, React, and SQL. I believe in continuous self-improvement. I keep enhancing my skills through online platforms like Scrimba, Boot.dev, Coursera, and edX, where I have earned several prestigious certifications while deepening my knowledge.
 
-I love Go and Java (I know it is weird) i am also interested using Rust and Python. Whenever necessary i will JS and TS
+I love Go and Java (I know it is weird) i am also interested using Rust and Python. Whenever necessary i am using JS and TS
 
 I am excited to combine these diverse learning experiences as I transition into the software development world<br><br>I am looking forward to improve myself and open to contribute any project.<br><br>You can reach me via https://www.linkedin.com/in/engin-cetin-erdem or e.cetinerdem@gmail.com<br><br>For a fun fact I have visited more than 23 countries and speak 4 languages (English, Turkish, German, Kurdish and now learning Arabic) :)
 
