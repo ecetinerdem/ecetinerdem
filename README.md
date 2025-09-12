@@ -23,9 +23,12 @@ I am excited to combine these diverse learning experiences as I transition into 
 
 # 📊 GitHub Stats:
 ![ecetinerdem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecetinerdem&theme=tokyonight&hide_border=false)
+![ecetinerdem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+![ecetinerdem's Stats](https://github-readme-stats.vercel.app/api?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![](https://github-profile-trophy.vercel.app/?username=ecetinerdem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![ecetinerdem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ecetinerdem&icon=0&color=0)](https://visitcount.itsvg.in)
