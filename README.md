@@ -22,11 +22,11 @@ I am excited to combine these diverse learning experiences as I transition into 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,spring,hibernate,maven,anaconda,ai,fastapi,nodejs,nextjs,npm,pnpm,react,redux,vite,nextjs,expressjs,firebase,supabase,sqlite,netlify,mysql,postgres,postman,docker,windows,linux,ubuntu,bash,atom,vim,neovim,powershell,vscode,idea,git,github,gitlab,gcp,codepen,figma,cypress,gmail,materialui,)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
+![ecetinerdem's Stats](https://github-readme-stats.vercel.app/api?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![ecetinerdem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ecetinerdem&theme=tokyonight&hide_border=false)
 ![ecetinerdem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![ecetinerdem's Stats](https://github-readme-stats.vercel.app/api?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![](https://github-profile-trophy.vercel.app/?username=ecetinerdem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![ecetinerdem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
