@@ -29,10 +29,6 @@ I am excited to combine these diverse learning experiences as I transition into 
 
 ![ecetinerdem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ecetinerdem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![ecetinerdem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ecetinerdem&icon=0&color=0)](https://visitcount.itsvg.in)
 
