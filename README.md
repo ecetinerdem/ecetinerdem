@@ -21,11 +21,6 @@ I am excited to combine these diverse learning experiences as I transition into 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,spring,hibernate,maven,anaconda,ai,fastapi,nodejs,nextjs,npm,pnpm,react,redux,vite,nextjs,expressjs,firebase,supabase,sqlite,netlify,mysql,postgres,postman,docker,windows,linux,ubuntu,bash,atom,vim,neovim,powershell,vscode,idea,git,github,gitlab,gcp,codepen,figma,cypress,gmail,materialui,)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![ecetinerdem's Stats](https://github-readme-stats.vercel.app/api?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-
-![ecetinerdem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecetinerdem&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ecetinerdem&icon=0&color=0)](https://visitcount.itsvg.in)
