@@ -1,7 +1,7 @@
 # 💫 About Me:
 Software Developer with a Passion for Problem Solving!
 
-I have 6 months of bootcamp experience where I learned Java, Spring Boot, JavaScript, React, and SQL. I believe in continuous self-improvement. I keep enhancing my skills through online platforms like Scrimba, Boot.dev, Coursera, and edX, where I have earned several prestigious certifications while deepening my knowledge.
+I am PCEP certified Python Developer. I have 6 months of bootcamp experience where I learned Java, Spring Boot, JavaScript, React, and SQL. I am right now studying Panel Data Analysis with R and Machine Learning with Python at Council of Higher Education at Turkey(Marmara University, Middle East Technical University, Boğaziçi University and Istanbul Technical University)
 
 I love Go and Java (I know it is weird) i am also interested using Rust and Python. Whenever necessary i am using JS and TS
 
