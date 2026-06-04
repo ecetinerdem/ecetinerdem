@@ -3,7 +3,7 @@ Software Developer with a Passion for Problem Solving!
 
 I am PCEP certified Python Developer. I have 6 months of bootcamp experience where I learned Java, Spring Boot, JavaScript, React, and SQL. I am right now studying Panel Data Analysis with R and Machine Learning with Python at Council of Higher Education at Turkey(Marmara University, Middle East Technical University, Boğaziçi University and Istanbul Technical University)
 
-I love Go and Java (I know it is weird) i am also interested using Rust and Python. Whenever necessary i am using JS and TS
+I love using GO i am also interested using Zig and Python. Whenever necessary i am using JS and TS
 
 I am excited to combine these diverse learning experiences as I go deeper into the software engineering world<br><br>I am looking forward to improve myself and open to contribute any project.<br><br>You can reach me via https://www.linkedin.com/in/engin-cetin-erdem or e.cetinerdem@gmail.com<br><br>For a fun fact I have visited more than 23 countries and speak 4 languages (English, Turkish, German, Kurdish and now learning Arabic) :)
 
@@ -19,7 +19,7 @@ I am excited to combine these diverse learning experiences as I go deeper into t
 </p> 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,spring,hibernate,maven,anaconda,ai,fastapi,nodejs,nextjs,npm,pnpm,react,redux,vite,nextjs,expressjs,firebase,supabase,sqlite,netlify,mysql,postgres,postman,docker,windows,linux,ubuntu,bash,atom,vim,neovim,powershell,vscode,idea,git,github,gitlab,gcp,codepen,figma,cypress,gmail,materialui,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,zig,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,spring,hibernate,maven,anaconda,ai,fastapi,nodejs,nextjs,npm,pnpm,react,redux,vite,nextjs,expressjs,firebase,supabase,sqlite,netlify,mysql,postgres,postman,docker,windows,linux,ubuntu,bash,atom,vim,neovim,powershell,vscode,idea,git,github,gitlab,gcp,codepen,figma,cypress,gmail,materialui,)](https://skillicons.dev)
 
 
 ---
