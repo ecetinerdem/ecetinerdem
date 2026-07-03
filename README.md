@@ -1,11 +1,11 @@
 # 💫 About Me:
 Software Developer with a Passion for Problem Solving!
 
-I am PCEP certified Python Developer. I have 6 months of bootcamp experience where I learned Java, Spring Boot, JavaScript, React, and SQL. I am right now studying Panel Data Analysis with R and Machine Learning with Python at Council of Higher Education at Turkey(Marmara University, Middle East Technical University, Boğaziçi University and Istanbul Technical University)
+I am PCEP certified Python Developer. I have 6 months of bootcamp experience where I learned Java, Spring Boot, JavaScript, React, and SQL. I completed Panel Data Analysis with R and Machine Learning with Python programs at Council of Higher Education at Turkey(Marmara University, Middle East Technical University, Boğaziçi University and Istanbul Technical University)
 
 I love using GO i am also interested using Zig and Python. Whenever necessary i am using JS and TS
 
-I am excited to combine these diverse learning experiences as I go deeper into the software engineering world<br><br>I am looking forward to improve myself and open to contribute any project.<br><br>You can reach me via https://www.linkedin.com/in/engin-cetin-erdem or e.cetinerdem@gmail.com<br><br>For a fun fact I have visited more than 23 countries and speak 4 languages (English, Turkish, German, Kurdish and now learning Arabic) :)
+I am excited to combine these diverse learning experiences as I go deeper into the software engineering and Data Analysis worlds<br><br>I am looking forward to improve myself and open to contribute any project.<br><br>You can reach me via https://www.linkedin.com/in/engin-cetin-erdem or e.cetinerdem@gmail.com<br><br>For a fun fact I have visited more than 23 countries and speak 4 languages (English, Turkish, German, Kurdish and now learning Arabic) :)
 
 
 ## 🌐 Socials:
