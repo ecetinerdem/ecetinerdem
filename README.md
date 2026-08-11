@@ -1,7 +1,7 @@
 # 💫 About Me:
 Software Developer with a Passion for Problem Solving!
 
-I am PCEP certified Python Developer. I have 6 months of bootcamp experience where I learned Java, Spring Boot, JavaScript, React, and SQL. I completed Panel Data Analysis with R and Machine Learning with Python programs at Council of Higher Education at Turkey(Marmara University, Middle East Technical University, Boğaziçi University and Istanbul Technical University)
+PCEP certified Python Developer and CompTIA Data+ certified data professional. I have 6 months of bootcamp experience where I learned Java, Spring Boot, JavaScript, React, and SQL. I have studied Panel Data Analysis with R and Machine Learning with Python at Council of Higher Education at Turkey(Marmara University, Middle East Technical University, Boğaziçi University and Istanbul Technical University)
 
 I love using GO and i am also interested using Zig and Python. Whenever necessary i am using JS and TS
 
