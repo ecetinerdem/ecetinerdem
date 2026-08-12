@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/engin-cetin-erdem">LinkedIn</a> ·
 <a href="mailto:e.cetinerdem@gmail.com">Email</a> ·
-<a href="https://twitter.com/forro3ss">Twitter</a> ·
+<a href="https://x.com/ECetinerdem">Twitter</a> ·
 <a href="https://www.hackerrank.com/cetoerdem1">HackerRank</a> ·
 <a href="https://discord.gg/forro3ss">Discord</a>
 </p>
