@@ -19,11 +19,11 @@ I am excited to combine these diverse learning experiences as I go deeper into t
 </p> 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,zig,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,spring,hibernate,maven,anaconda,ai,fastapi,nodejs,nextjs,npm,pnpm,react,redux,vite,nextjs,expressjs,firebase,supabase,sqlite,netlify,mysql,postgres,postman,docker,windows,linux,ubuntu,bash,atom,vim,neovim,powershell,vscode,idea,git,github,gitlab,gcp,codepen,figma,cypress,gmail,materialui,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,go,zig,rust,html,css,bootstrap,styledcomponents,tailwind,django,flask,spring,hibernate,maven,anaconda,ai,nodejs,npm,react,vite,nextjs,sqlite,postgres,postman,docker,windows,linux,ubuntu,bash,neovim,powershell,vscode,idea,git,github,gitlab,figma,cypress,)](https://skillicons.dev)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ecetinerdem&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
  
