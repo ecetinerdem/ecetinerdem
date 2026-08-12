@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer with a Passion for Problem Solving!
+Software Developer and Data Professional with a Passion for Problem Solving!
 
 PCEP certified Python Developer and CompTIA Data+ certified data professional. I have 6 months of bootcamp experience where I learned Java, Spring Boot, JavaScript, React, and SQL. I have studied Panel Data Analysis with R and Machine Learning with Python at Council of Higher Education at Turkey(Marmara University, Middle East Technical University, Boğaziçi University and Istanbul Technical University)
 
