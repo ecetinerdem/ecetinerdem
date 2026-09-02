@@ -8,8 +8,11 @@
 <a href="https://discord.gg/forro3ss">Discord</a>
 </p>
 <br>
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/d23ba62e-b190-4ab0-aaf8-657fd56a2da4/thumbnail" width=400 >
+</p>
 
-## 💫 About Me:
+## About Me:
 
 Software Developer and Data Professional with a Passion for Problem Solving!
 
