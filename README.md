@@ -7,7 +7,7 @@
 <a href="https://www.hackerrank.com/cetoerdem1">HackerRank</a> ·
 <a href="https://discord.gg/forro3ss">Discord</a>
 </p>
-<br>>
+<br>
 ## About Me:
 
 Software Developer and Data Professional with a Passion for Problem Solving!
@@ -32,7 +32,7 @@ I am excited to combine these diverse learning experiences as I go deeper into t
 <br>
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/d23ba62e-b190-4ab0-aaf8-657fd56a2da4/thumbnail" width=400 >
-</p
+</p>
 
 
 
