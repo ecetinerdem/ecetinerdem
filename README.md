@@ -8,6 +8,7 @@
 <a href="https://discord.gg/forro3ss">Discord</a>
 </p>
 <br>
+
 ## About Me:
 
 Software Developer and Data Professional with a Passion for Problem Solving!
